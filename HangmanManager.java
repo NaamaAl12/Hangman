@@ -1,6 +1,3 @@
-// Naama Al-Musawi, CS 145
-// Assignment: Evil Hangman
-
 import java.util.*;
 public class HangmanManager {
     private List<String> words;
